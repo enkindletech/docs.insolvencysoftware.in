@@ -2,4 +2,5 @@
 
 ### Welcome to Case Management 
 
+* [Features](features.md)
 * [Case](case/case.md)
